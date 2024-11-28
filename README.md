@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## Groq API key generation
 - Create an account in Groq.
 - Generate an API key.
-- Create a .env file. In that file enter the following code:
+- Create a .env file in the root directory. In that file enter the following code:
 ```
 GROQ_API_KEY=YOUR_API_KEY
 ```
