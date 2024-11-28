@@ -1,0 +1,11 @@
+pypdf
+langchain
+python-dotenv
+groq
+langchain_groq
+sentence_transformers
+faiss_cpu
+chainlit
+huggingface_hub
+langchain_community
+pydantic==2.10.1
